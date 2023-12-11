@@ -19,4 +19,4 @@ typedef struct _process {
  */
 void process_ctr(Process * p, int pid, int arrival_time, int priority);
 
-#endif				// PROCESS_H
+#endif			
